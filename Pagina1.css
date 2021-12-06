@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #200362;
+}
+ 
+.container-fluid{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar {
+
+    background-color:#4D2DC7 ;
+}
+
+.nav-link {
+
+    color:white
+
+}
+
+hr {
+    border-color: #4D2DC7;
+    width: 50%;
+  
+
+
+}
+
+.container-fluid{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+.jumbotron{
+
+    background-color: #200362;
+    color: white;
+}
+
+.btn{
+
+    background-color: #C90C79;
+    color: white;
+}
+
+.img-fluid{
+
+    border-radius: 0.5rem
+}
+
+
+.page-footer{
+
+   background-color:  #4D2DC7;
+   color: white;
+   margin-bottom: 0px;  
+}
+
+p{
+    margin-bottom: 0px;
+}
+
+a{
+    color: white;
+}
+
+#bajotexto{
+
+    border-color: white;
+   
+}
+
+ul{
+    list-style-type: none;
+}
+
