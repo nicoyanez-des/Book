@@ -6,7 +6,7 @@
 body {
     margin: 0px;
     padding: 0px;
-    background-color: #200362;
+    background-color: white;
 }
  
 .container-fluid{
@@ -17,7 +17,7 @@ body {
 
 .navbar {
 
-    background-color:#4D2DC7 ;
+    background-color:#a33f40 ;
 }
 
 .nav-link {
@@ -26,8 +26,14 @@ body {
 
 }
 
+.fa-ellipsis-v{
+
+    color: white;
+    padding-top: 5px;
+}
+
 hr {
-    border-color: #4D2DC7;
+    border-color: #2a565b;
     width: 50%;
   
 
@@ -42,14 +48,15 @@ hr {
 
 .jumbotron{
 
-    background-color: #200362;
+    background-color: #a33f40;
     color: white;
 }
 
 .btn{
 
-    background-color: #C90C79;
-    color: white;
+    background-color: white;
+    color: #a33f40;
+    border-color: white;
 }
 
 .img-fluid{
@@ -60,7 +67,7 @@ hr {
 
 .page-footer{
 
-   background-color:  #4D2DC7;
+   background-color:  #3b8088;
    color: white;
    margin-bottom: 0px;  
 }
@@ -79,7 +86,82 @@ a{
    
 }
 
-ul{
+.my-2{
     list-style-type: none;
 }
 
+.fab{
+
+    font-size: 25px;
+    
+}
+
+#iconocamino{
+
+    font-size: 50px;
+    color: #2a565b;
+    margin-left: 50%  ;
+}
+
+#jumbo-camino{
+
+    color:#a33f40 ;
+}
+
+.display-5{
+
+    color:white ;
+}
+
+#caminoencabezado{
+
+    color:#a95657 ;
+}
+
+.fa-lightbulb{
+
+    color:#3b8088 ;
+    font-size: 60px;    
+}
+
+.fa-user{
+
+    color:#3b8088 ;
+    font-size: 60px; 
+}
+
+.fa-paint-brush{
+
+    color:#3b8088 ;
+    font-size: 60px; 
+}
+
+.fa-lightbulb:hover{
+
+    color: #2a565b;
+}
+
+.fa-user:hover{
+
+    color: #2a565b;
+}
+
+.fa-paint-brush:hover{
+
+    color: #2a565b;
+}
+
+#mihistoria{
+
+    color:#a33f40 ;
+}
+
+#logodracu{
+
+    max-width: 100%;
+}
+
+#trabajoencabezado{
+
+    color: #a95657 ;
+}
